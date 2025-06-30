@@ -20,3 +20,17 @@
 !.config/mc/
 !.config/mc/*
 
+# Ignore zsh files
+!.zshrc
+!.p10k.zsh
+!.oh-my-zsh/
+!.oh-my-zsh/custom
+!.oh-my-zsh/custom/*
+!.oh-my-zsh/custom/*/*
+!.oh-my-zsh/custom/*/*/*
+!.oh-my-zsh/custom/*/*/*/*
+!.oh-my-zsh/custom/*/*/*/*/*
+!.oh-my-zsh/custom/*/*/*/*/*/*
+!.oh-my-zsh/custom/*/*/*/*/*/*/*
+!.oh-my-zsh/custom/*/*/*/*/*/*/*/*
+!.oh-my-zsh/custom/*/*/*/*/*/*/*/*/*
