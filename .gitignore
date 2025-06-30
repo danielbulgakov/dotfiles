@@ -16,3 +16,7 @@
 !.config/kitty/
 !.config/kitty/*
 
+# .config/mc
+!.config/mc/
+!.config/mc/*
+
