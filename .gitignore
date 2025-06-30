@@ -25,6 +25,10 @@
 !.config/zsh/*
 !.config/zsh/*/*
 
+# .config/wallpapers
+!.config/wallpapers
+!.config/wallpapers/*
+
 # Ignore zsh files
 !.zshrc
 !.p10k.zsh
