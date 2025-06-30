@@ -4,3 +4,11 @@
 *
 # But we should not ignore this file
 !.gitignore
+
+# Ignore specific folders from .config dir
+!.config/
+
+# .config/nvim
+!.config/nvim/
+!.config/nvim/**/*
+
