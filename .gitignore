@@ -1,0 +1,6 @@
+# Gitignore file for .dotfiles
+
+# Firstly lets ignore all files
+*
+# But we should not ignore this file
+!.gitignore
