@@ -12,3 +12,7 @@
 !.config/nvim/
 !.config/nvim/**/*
 
+# .config/kitty
+!.config/kitty/
+!.config/kitty/*
+
