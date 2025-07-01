@@ -20,6 +20,11 @@
 !.config/mc/
 !.config/mc/*
 
+# .config/wofi
+!.config/wofi/
+!.config/wofi/*
+!.config/wofi/*/*
+
 # .config/zsh
 !.config/zsh
 !.config/zsh/*
